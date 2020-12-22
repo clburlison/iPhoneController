@@ -50,7 +50,7 @@ chmod +x dotnet-install.sh
 rm dotnet-install.sh
 
 # Clone repository
-git clone https://github.com/versx/iPhoneController -b sqlite
+git clone https://github.com/versx/iPhoneController
 
 # Change directory into cloned repository
 cd iPhoneController
